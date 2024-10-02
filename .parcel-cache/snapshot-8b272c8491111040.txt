@@ -52,7 +52,7 @@
 79C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\svgo\plugins\prefixIds.js133723437538716243 0
 103C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133723437543254106 0
 76C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\ordered-binary\LICENSE133723437516805759 0
-45C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist133723713554181186 1
+45C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist133723714230791815 1
 96C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\css-tree\lib\definition-syntax\generate.js133723437544750106 0
 78C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\detect-libc\package.json133723437516905471 0
 69C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\lmdb\index.d.ts133723437543942266 0
@@ -155,7 +155,7 @@
 108C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js133723437544789997 0
 110C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Identifier.js133723437544700257 0
 62C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\css-tree133723437547004086 1
-61C:\Users\NEHAL SHAIKH\Desktop\18-forkify\src\js\controller.js133723713566777435 0
+61C:\Users\NEHAL SHAIKH\Desktop\18-forkify\src\js\controller.js133723714243279825 0
 49C:\Users\NEHAL SHAIKH\Desktop\18-forkify\src\sass133721082488619329 1
 101C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133723437520513502 0
 79C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\htmlnano\lib\htmlnano.cjs133723437523475575 0
@@ -6019,5 +6019,5 @@
 66C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\favicon.8b2f57bf.png133723713085907156 0
 64C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.f7626f62.css133723713086244357 0
 63C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\logo.726d37a8.png133723713086254338 0
-63C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.e37f48ea.js133723713554131350 0
-67C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.e37f48ea.js.map133723713554171240 0
+63C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.e37f48ea.js133723714230743293 0
+67C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.e37f48ea.js.map133723714230781814 0

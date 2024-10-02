@@ -606,11 +606,13 @@ const renderSpinner = function(parentEl) {
             <use href="${(0, _iconsSvgDefault.default)}#icon-loader"></use>
           </svg>
         </div>`;
+    parentEl.innerHTML = "";
     parentEl.insertAdjacentHTML("afterbegin", markUp);
 };
 const showRecipe = async function() {
     try {
         // 1) loading recipe
+        renderSpinner(recipeContainer);
         const res = await fetch(// 'https://forkify-api.herokuapp.com/api/v2/recipes/664c8f193e7aa067e94e8438'
         "https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886");
         const data = await res.json();
