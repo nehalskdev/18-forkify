@@ -18,7 +18,6 @@
 96C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\caniuse-lite\data\features\css3-tabsize.js133723437546774694 0
 103C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Url.js133723437546435602 0
 91C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\caniuse-lite\data\features\gamepad.js133723437549098289 0
-63C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.e37f48ea.js133723717005345461 0
 81C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\lightningcss-win32-x64-msvc133723437518847957 1
 44C:\Users\NEHAL SHAIKH\Desktop\18-forkify\src133721082488463460 1
 91C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\modules\es.array.find-last.js133723715334166960 0
@@ -44,7 +43,7 @@
 91C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\modules\esnext.array.group.js133723715337515619 0
 84C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\es\instance\pad-end.js133723715356726942 0
 109C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\csso\node_modules\css-tree\cjs\lexer\prepare-tokens.cjs133723437541309308 0
-67C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.e37f48ea.js.map133723717005405282 0
+67C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.e37f48ea.js.map133723721463933653 0
 87C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\es\object\from-entries.js133723715345728829 0
 88C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\@parcel\graph\src\shared-buffer.js133723437526716920 0
 130C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\3-disjoinRuleset.js133723437519635842 0
@@ -75,7 +74,7 @@
 79C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\full\array\map.js133723715354985958 0
 95C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\actual\typed-array\uint8-array.js133723715366649865 0
 88C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\internals\dom-iterables.js133723715333185001 0
-45C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist133723717005425226 1
+45C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist133723721463953608 1
 96C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\css-select\node_modules\entities\readme.md133723437537748823 0
 111C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file133723437545418321 1
 88C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\modules\es.object.proto.js133723715335306157 0
@@ -210,7 +209,7 @@
 90C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\actual\date\to-gmt-string.js133723715363653507 0
 62C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\css-tree133723437547004086 1
 93C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\modules\esnext.regexp.escape.js133723715339263590 0
-61C:\Users\NEHAL SHAIKH\Desktop\18-forkify\src\js\controller.js133723716259801721 0
+61C:\Users\NEHAL SHAIKH\Desktop\18-forkify\src\js\controller.js133723721531289094 0
 49C:\Users\NEHAL SHAIKH\Desktop\18-forkify\src\sass133721082488619329 1
 62C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\chokidar133723439956878156 1
 79C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\htmlnano\lib\htmlnano.cjs133723437523475575 0
@@ -3851,7 +3850,7 @@
 77C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\stable\weak-set133723715351006155 1
 90C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\css-tree\lib\syntax\atrule\import.js133723437544989491 0
 109C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Function.cjs133723437532252115 0
-68C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.f7626f62.css.map133723713086444681 0
+68C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.f7626f62.css.map133723721427833637 0
 94C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\css-tree\cjs\syntax\config\generator.cjs133723437537260128 0
 111C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133723437537379814 0
 97C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\internals\async-iterator-indexed.js133723715329166329 0
@@ -7231,7 +7230,7 @@
 88C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\es\object\lookup-setter.js133723715354647428 0
 86C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\@swc\helpers\_\_set_prototype_of133723437542705581 1
 89C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\es\string\virtual\substr.js133723715362854846 0
-64C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\icons.dfd7a6db.svg133723713086109146 0
+64C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\icons.dfd7a6db.svg133723721427843657 0
 123C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeHiddenElems.js133723437537669039 0
 86C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\es\string\virtual\sup.js133723715362969682 0
 97C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\core-js\es\string\virtual\to-well-formed.js133723715365468425 0
@@ -9686,11 +9685,12 @@
 63C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\.bin\svgo133723437560638976 0
 67C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\.bin\svgo.cmd133723437560638976 0
 85C:\Users\NEHAL SHAIKH\Desktop\18-forkify\node_modules\.bin\update-browserslist-db.ps1133723437560638976 0
-66C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\favicon.8b2f57bf.png133723713085907156 0
-64C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\icons.21bad73c.svg133723713085877284 0
 63C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.62406edb.js133723678408237286 0
 67C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.62406edb.js.map133723678408426834 0
-64C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.f7626f62.css133723713086244357 0
-56C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.html133723708174458063 0
-63C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\logo.726d37a8.png133723713086254338 0
 62C:\Users\NEHAL SHAIKH\Desktop\18-forkify\.vscode\settings.json133721082946874396 0
+63C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\logo.726d37a8.png133723721427175377 0
+56C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.html133723721427464608 0
+66C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\favicon.8b2f57bf.png133723721427584296 0
+64C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\icons.21bad73c.svg133723721427634157 0
+64C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.f7626f62.css133723721427783767 0
+63C:\Users\NEHAL SHAIKH\Desktop\18-forkify\dist\index.e37f48ea.js133723721463893758 0
